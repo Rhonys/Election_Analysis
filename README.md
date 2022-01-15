@@ -41,7 +41,7 @@ This audit was conducted to determine the winner of the election of a recent loc
 - This was found by using an if statement within a for loop to determine how many votes each county received. And then using another for loop to calculate the percentage. The results and breakdown were then printed. 
 - ![county for loop](https://user-images.githubusercontent.com/95246572/149639095-1c62ceb8-9e6f-47b3-b704-b55c4af7783d.png)
 - ![County Calculation](https://user-images.githubusercontent.com/95246572/149639099-fbe872c3-8e6c-40cd-88c2-91c0701349b7.png)
-- The county with the largest number of votes was Denver. This was 
+- The result of this calculation showed this result: 
 - ![County Vote Winner](https://user-images.githubusercontent.com/95246572/149639199-77eba7a0-ded3-4267-88b4-1fe8f8d1b386.png)
 - This was the breakdown of the total votes and percentage of votes each candidate received. 
 - ![Candidate Summary](https://user-images.githubusercontent.com/95246572/149639298-ff18befb-6f68-4174-ae51-a9fa5de2541f.png)
