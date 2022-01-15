@@ -39,9 +39,16 @@ This audit was conducted to determine the winner of the election of a recent loc
 - ![Vote Count Loop](https://user-images.githubusercontent.com/95246572/149638917-f133361a-be28-4bec-b958-3050f7b01f0e.png)
 - This was the breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - ![County Results](https://user-images.githubusercontent.com/95246572/149638973-ff408461-68a2-40b4-9f99-af7f883d0bb7.png)
-- This was found by using an if statement within a for loop to determine how many votes each county received. And then using another for loop to calculate the percentage. 
+- This was found by using an if statement within a for loop to determine how many votes each county received. And then using another for loop to calculate the percentage. The results and breakdown were then printed. 
 - ![county for loop](https://user-images.githubusercontent.com/95246572/149639095-1c62ceb8-9e6f-47b3-b704-b55c4af7783d.png)
 - ![County Calculation](https://user-images.githubusercontent.com/95246572/149639099-fbe872c3-8e6c-40cd-88c2-91c0701349b7.png)
+- The county with the largest number of votes was Denver. This was 
+- ![County Vote Winner](https://user-images.githubusercontent.com/95246572/149639199-77eba7a0-ded3-4267-88b4-1fe8f8d1b386.png)
+- This was the breakdown of the total votes and percentage of votes each candidate received. 
+- ![Candidate Summary](https://user-images.githubusercontent.com/95246572/149639298-ff18befb-6f68-4174-ae51-a9fa5de2541f.png)
+- The winner of the election was Diana DeGette with 272,892 votes for 73.8% of the total vote. This was discovered using a similar for loop used as above but modified to determine the winner.
+- ![Winner](https://user-images.githubusercontent.com/95246572/149639411-429161b2-f0ef-47c0-b4e3-d5e1eefb7fd6.png)
+- ![Candidate Calculation](https://user-images.githubusercontent.com/95246572/149639390-04d169ef-5d98-4110-8532-783bc58615ab.png)
 
 
 
