@@ -35,8 +35,8 @@ The analysis of the election show that:
 This audit was conducted to determine the winner of the election of a recent local congressional election in Colorado, as well as stastistics on the votes within each County. 
 
 ### Election-Audit Results
-- There were a total of 369, 711 votes cast for this election. This result was found by looping through the election file to count the total. 
-- ![Vote Count Loop](https://user-images.githubusercontent.com/95246572/149638917-f133361a-be28-4bec-b958-3050f7b01f0e.png)
+- There were a total of 369, 711 votes cast for this election. This result was found by opening the chosen file and looping through the election file to count the total and print the results. 
+- ![Load Statement](https://user-images.githubusercontent.com/95246572/149640162-39012a1e-6341-4f4c-8730-806737386664.png)
 - ![County Results](https://user-images.githubusercontent.com/95246572/149638973-ff408461-68a2-40b4-9f99-af7f883d0bb7.png)
 - This was found by using an if statement within a for loop to determine how many votes each county received. And then using another for loop to calculate the percentage. The results and breakdown were then printed. 
 - ![county for loop](https://user-images.githubusercontent.com/95246572/149639095-1c62ceb8-9e6f-47b3-b704-b55c4af7783d.png)
