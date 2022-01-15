@@ -53,9 +53,9 @@ This audit was conducted to determine the winner of the election of a recent loc
 
 
 ### Election-Audit Summary
-This code has a good foundation to be modified easily to count vote totals of any election and output the results quickly. Two easy ways to modify this script is to modify the original file to open to the desired csv file of any election result. 
-![file to load](https://user-images.githubusercontent.com/95246572/149639677-1a2508d6-837c-4e3e-beb4-34c39d87f2a4.png)
-Additionally, you need to adjust the row number to make sure the county names and candidate names are in the correct positions to be read.
-![Count Row](https://user-images.githubusercontent.com/95246572/149639709-7ac2b13a-42af-4f67-a874-9db144977c40.png)
+- This code has a good foundation to be modified easily to count vote totals of any election and output the results quickly. Two easy ways to modify this script is to modify the original file to open to the desired csv file of any election result. 
+- ![file to load](https://user-images.githubusercontent.com/95246572/149639677-1a2508d6-837c-4e3e-beb4-34c39d87f2a4.png)
+- Additionally, you need to adjust the row number to make sure the county names and candidate names are in the correct positions to be read.
+- ![Count Row](https://user-images.githubusercontent.com/95246572/149639709-7ac2b13a-42af-4f67-a874-9db144977c40.png)
 
 
