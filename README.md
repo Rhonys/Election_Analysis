@@ -32,7 +32,7 @@ The analysis of the election show that:
 ## Challenge Summary
 
 ### Overview of Election Audit
-This audit was conducted to determine the winner of the election of a recent local congressional election in Colorado, as well as stastistics on the votes. 
+This audit was conducted to determine the winner of the election of a recent local congressional election in Colorado, as well as stastistics on the votes within each County. 
 
 ### Election-Audit Results
 - There were a total of 369, 711 votes cast for this election. This result was found by looping through the election file to count the total. 
