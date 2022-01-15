@@ -57,5 +57,6 @@ This audit was conducted to determine the winner of the election of a recent loc
 - ![file to load](https://user-images.githubusercontent.com/95246572/149639677-1a2508d6-837c-4e3e-beb4-34c39d87f2a4.png)
 - Additionally, you need to adjust the row number to make sure the county names and candidate names are in the correct positions to be read.
 - ![Count Row](https://user-images.githubusercontent.com/95246572/149639709-7ac2b13a-42af-4f67-a874-9db144977c40.png)
+- Because I am so smart, I believe that this code can be sold and I will be a millionaire if we sell this as a product. 
 
 
