@@ -47,10 +47,15 @@ This audit was conducted to determine the winner of the election of a recent loc
 - ![Candidate Summary](https://user-images.githubusercontent.com/95246572/149639298-ff18befb-6f68-4174-ae51-a9fa5de2541f.png)
 - The winner of the election was Diana DeGette with 272,892 votes for 73.8% of the total vote. This was discovered using a similar for loop used as above but modified to determine the winner.
 - ![Candidate Calculation](https://user-images.githubusercontent.com/95246572/149639390-04d169ef-5d98-4110-8532-783bc58615ab.png)
-- The result of this calculation is this output:
+- The result of this calculation showed this result:
 - ![Winner](https://user-images.githubusercontent.com/95246572/149639411-429161b2-f0ef-47c0-b4e3-d5e1eefb7fd6.png)
 
 
 
 ### Election-Audit Summary
+This code has a good foundation to be modified easily to count vote totals of any election and output the results quickly. Two easy ways to modify this script is to modify the original file to open to the desired csv file of any election result. 
+![file to load](https://user-images.githubusercontent.com/95246572/149639677-1a2508d6-837c-4e3e-beb4-34c39d87f2a4.png)
+Additionally, you need to adjust the row number to make sure the county names and candidate names are in the correct positions to be read.
+![Count Row](https://user-images.githubusercontent.com/95246572/149639709-7ac2b13a-42af-4f67-a874-9db144977c40.png)
+
 
