@@ -43,7 +43,6 @@ This audit was conducted to determine the winner of the election of a recent loc
 - ![County Calculation](https://user-images.githubusercontent.com/95246572/149639099-fbe872c3-8e6c-40cd-88c2-91c0701349b7.png)
 - The result of this calculation showed this result: 
 - ![County Vote Winner](https://user-images.githubusercontent.com/95246572/149639199-77eba7a0-ded3-4267-88b4-1fe8f8d1b386.png)
-- This was the breakdown of the total votes and percentage of votes each candidate received. 
 - ![Candidate Summary](https://user-images.githubusercontent.com/95246572/149639298-ff18befb-6f68-4174-ae51-a9fa5de2541f.png)
 - The winner of the election was Diana DeGette with 272,892 votes for 73.8% of the total vote. This was discovered using a similar for loop used as above but modified to determine the winner.
 - ![Winner](https://user-images.githubusercontent.com/95246572/149639411-429161b2-f0ef-47c0-b4e3-d5e1eefb7fd6.png)
